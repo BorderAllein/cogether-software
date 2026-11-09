@@ -36,3 +36,6 @@ CoGether ist kein einzelnes Werkzeug, sondern die gemeinsame Infrastruktur, in d
 
 - [CoGether Coaching und Wissen](https://cogether.de/): persönliches Coaching, Mentoring, Gruppenprogramme, Coach-Ausbildung und Wissensartikel.
 - [Border Allein](https://borderallein.de/): persönlicher Podcast von Sven über Selbstführung.
+- [CoGether für Organisationen](https://business.cogether.de/): Level You Up und Software für Teams, Träger und Organisationen.
+- [ADHS Begleitung](https://adhsbegleitung.de/): quellenbasiertes Wissensportal zu ADHS mit persönlicher Begleitung durch Angie.
+- [Guidance Observatory](https://guidanceobservatory.com/): unabhängiges Fachportal zu Beratung, Coaching und Mentoring.

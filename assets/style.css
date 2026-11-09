@@ -1268,3 +1268,5 @@ body.home .pc-teaser p{margin:0;color:#4a6168;font-size:.92rem;max-width:46ch}
 .pc-teaser__btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;white-space:nowrap;padding:.95rem 1.7rem;border-radius:999px;background:linear-gradient(135deg,#0fb3c6 0%,#078b9c 55%,#056c7a 100%);color:#fff!important;font-weight:800;font-size:.9rem;text-decoration:none!important;box-shadow:0 10px 24px -10px rgba(7,139,156,.7);transition:transform .2s ease,box-shadow .2s ease}
 .pc-teaser__btn:hover{transform:translateY(-1px);box-shadow:0 14px 28px -10px rgba(7,139,156,.8)}
 @media(max-width:640px){.pc-teaser__inner{padding:1.3rem 1.2rem}.pc-teaser__btn{width:100%}}
+
+@media(min-width:761px){.sv2-footer__main{grid-template-columns:1.3fr repeat(5,1fr)}}
