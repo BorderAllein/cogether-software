@@ -1270,3 +1270,5 @@ body.home .pc-teaser p{margin:0;color:#4a6168;font-size:.92rem;max-width:46ch}
 @media(max-width:640px){.pc-teaser__inner{padding:1.3rem 1.2rem}.pc-teaser__btn{width:100%}}
 
 @media(min-width:761px){.sv2-footer__main{grid-template-columns:1.3fr repeat(5,1fr)}}
+
+.soc-row{margin:1rem 0 0;font-size:.9rem;color:#9fb0b8;opacity:1}.soc-row a{color:inherit;text-decoration:underline;text-underline-offset:3px}
